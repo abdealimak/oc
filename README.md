@@ -1,1 +1,1 @@
-# tts and stt automation scripts for oc & zc
+# tts and stt automation scripts for oc & zc 👾
